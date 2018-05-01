@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 cambio desde master
-=======
-cambio desde rama "test"
-2do cambio desde test
->>>>>>> test
