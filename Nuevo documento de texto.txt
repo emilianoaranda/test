@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-empezamos de cero
-=======
-
-linea 2 desde test
->>>>>>> test
+desde master
